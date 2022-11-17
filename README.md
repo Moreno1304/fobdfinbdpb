@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Moreno+César+Santiago;I'm+20+years+old;I+from+Barueri,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Moreno+César+Santiago;I'm+20+years+old;I+from+Barueri,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   
-  <img  src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&langs_count=16&theme=merko"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <br>
 
