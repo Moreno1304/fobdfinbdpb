@@ -3,7 +3,7 @@
 <div>
   
   <img  src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&langs_count=16&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <br>
 
