@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Moreno+César+Santiago;I'm+20+years+old;I+from+Barueri,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3E96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Moreno+César+Santiago;I'm+20+years+old;I+from+Barueri,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&count_private=true&hide_border=true&title_color=FF7F00&icon_color=FF7F00&text_color=FF7F00&bg_color=000000" alt=" Moreno César github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&count_private=true&hide_border=true&title_color=FF3E96&icon_color=FF3E96&text_color=FF3E96&bg_color=000000" alt=" Moreno César github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&hide_border=true&title_color=FF7F00&text_color=FF7F00&bg_color=000000" />
 </div>
 
