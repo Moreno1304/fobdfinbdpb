@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moreno1304&show_icons=true&count_private=true&hide_border=true&title_color=FF3E96&icon_color=FF3E96&text_color=FF3E96&bg_color=000000" alt=" Moreno César github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&hide_border=true&title_color=FF7F00&text_color=FF7F00&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno1304&layout=compact&hide_border=true&title_color=FF3E96&text_color=FF7F00&bg_color=000000" />
 </div>
 
 
